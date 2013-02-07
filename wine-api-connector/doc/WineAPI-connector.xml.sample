@@ -1,0 +1,3 @@
+<!-- BEGIN_INCLUDE(wineapi:wine-by-category) -->
+    <wineapi:wine-by-category categories="#[map-payload:categories]" />
+<!-- END_INCLUDE(wineapi:wine-by-category) -->
